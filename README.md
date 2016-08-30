@@ -9,6 +9,10 @@
      * com.gbce.stockmarket - your specific implemenation code
     * stockmarket.interfaces - abstract code defining the functionality but not the implementation
 
+### Exposed API
+
+GBCEDefaultStockMarket implements the StockMArket Interface which exposes your request functionality
+
 ### Test it
 Running com.gbce.stockmarket.GBCEDefaultStockMarketTestCase
 Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.09 sec
