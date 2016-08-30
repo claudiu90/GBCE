@@ -82,3 +82,6 @@ Volume Weighted stock price: 726.2898565304446
 
 ##### GBCE All Share Index is 401.0535077355676
 
+### Thank you,
+### CoolCorp
+
